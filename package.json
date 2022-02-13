@@ -21,7 +21,7 @@
     "eject": "react-app-rewired eject"
   },
   "devDependencies": {
-    "ajv": "^6.5.2",
+    "ajv": "^6.12.3",
     "eslint-config-airbnb": "^17.0.0",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
